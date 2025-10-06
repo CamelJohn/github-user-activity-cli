@@ -1,6 +1,6 @@
 # GitHub User Activity CLI
 
-[URL](https://github.com/CamelJohn/github-user-activity-cli)
+[URL](https://roadmap.sh/projects/github-user-activity)
 
 A simple **TypeScript CLI tool** to fetch and display a GitHub user’s recent public activity in a **human-readable format**.
 
